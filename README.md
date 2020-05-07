@@ -1,6 +1,7 @@
 # DevOps_Automation
 Home work for the DevOps 
 
+ 
 ### Automation of the Deployment of Website 
 
 
@@ -37,3 +38,9 @@ This job run if  any containers are not running
 To copy files from workspace of Jenkins to the folder and deploy the code  for Quality Assurance for Testing 
 If this builts good 
 Post built triggers and merge the code of Dev to the master 
+
+
+Sorry For Documentation like this lack of time ... 
+
+
+I will update...
